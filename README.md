@@ -19,6 +19,7 @@ HC-05s are Bluetooth 2.0/2.1 EDR devices that have a serial UART layer on top of
 * [AT Commands](http://www.martyncurrey.com/hc-05-fs-040-state-pin/ "State")
 * [Hardware Design](https://www.electronicshub.org/hc-05-bluetooth-module/ "Hardware Design")
 * [Specification](http://www.martyncurrey.com/hc-05-zg-b23090w-bluetooth-2-0-edr-modules/ "Specification")
+* [Modules](http://www.martyncurrey.com/bluetooth-modules/ "Modules")
 * [Courses](https://openclassrooms.com/fr/courses/5224916-developpez-un-robot-mobile-connecte-par-bluetooth "OpenClassrooms")
 
 ### Donation
