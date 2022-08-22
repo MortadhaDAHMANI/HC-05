@@ -8,7 +8,7 @@ HC-05s are Bluetooth 2.0/2.1 EDR devices that have a serial UART layer on top of
 --------------------
 
 ## Pinout
-![alt iviny](https://github.com/MortadhaDAHMANI/HC-05/raw/master/HC-05-WITH-CONFIRM-CONNECTION-CIRCUIT-584x467.jpg)
+![alt iviny](https://github.com/MortadhaDAHMANI/HC-05/raw/main/HC_05_Arduino.jpg)
 
 ```diff
 - NOTICE: Connect the HC-05 RX Pin to Arduino TX through a voltage divider (1K /2K2 Ohm).
